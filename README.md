@@ -1,4 +1,4 @@
-<img width="887" height="416" alt="image" src="https://github.com/user-attachments/assets/04a5c950-a119-4573-9772-83fdb6fbc83c" /><img width="896" height="472" alt="image" src="https://github.com/user-attachments/assets/68a15c98-7ab1-4e4b-b046-88e1d3b2f7aa" /># Ex--3-AWS-Account-setup-and-S3-creation-
+
 ## Name :sudharsan s
 ## Reg.no : 212224040335
 ## Introduction
